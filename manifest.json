@@ -1,11 +1,12 @@
 {
 "manifest_version": 2,
-    "name": "Gary and Vivian's Font Switcharoo",
+    "name": "Gary and Vivian's Productivity Booster",
     "description": "It does good stuff",
     "version": "1.0",
     "content_scripts": [
         {
             "css": ["styles.css"],
+            "js": ["content.js"],
             "matches": [
                 "*://*/*"
             ],

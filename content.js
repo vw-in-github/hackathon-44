@@ -1,6 +1,7 @@
-var images = document.getElementsByTagName("img");
-for (var i = 0, l = images.length; i < l; i++) {
-  images[i].src = "https://codesmith.io/81ff5ac1c752947addbb16c2c7c84381.jpg";
+let images = document.getElementsByTagName("img");
+for (let i = 0; i < images.length; i++) {
+  images[i].src =
+    "https://github.com/garyiacobucci/hackathon-44/blob/master/assets/study.jpg?raw=true";
 }
 
 // var elements = document.getElementsByTagName('*');
