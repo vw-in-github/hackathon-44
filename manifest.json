@@ -8,7 +8,8 @@
             "css": ["styles.css"],
             "matches": [
                 "*://*/*"
-            ]
+            ],
+            "exclude_globs": ["https://developer.mozilla.org/*"]
         }
     ]
 }
