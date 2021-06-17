@@ -1,7 +1,1 @@
-This is your Chrome extension which replaces a word or phrase with a different word or phrase. 
-
-//,
-            // "js": [
-            //     "content.js"
-            // ],
-            //"run_at": "document_end"
+This is our Chrome extension, which censors text on websites other than MDN to make sure you remain productive. Michael may appear to assure that as well.
