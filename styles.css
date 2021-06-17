@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Big Shoulders Stencil Display';
+    src: url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@600&family=Roboto&display=swap');
+}
+
+* {
+    font-family: 'Big Shoulders Stencil Display', cursive !important;
+}
+
+#temporary {
+    font-family: 'maras_eyeregular';
+    src: url('maras_eye-webfont.woff2') format('woff2'),
+         url('maras_eye-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
