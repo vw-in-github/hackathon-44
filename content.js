@@ -1,7 +1,23 @@
-var images = document.getElementsByTagName("img");
-for (var i = 0, l = images.length; i < l; i++) {
-  images[i].src = "https://codesmith.io/81ff5ac1c752947addbb16c2c7c84381.jpg";
+let images = document.getElementsByTagName("img");
+for (let i = 0; i < images.length; i++) {
+  images[i].src =
+    "https://github.com/garyiacobucci/hackathon-44/blob/master/assets/study.jpg?raw=true";
 }
+
+// @font-face {
+//   font-family: "maras_eyeregular";
+//   src: url("https://github.com/garyiacobucci/hackathon-44/blob/master/assets/maras_eye-webfont.woff2?raw=true")
+//       format("woff2"),
+//     url("https://github.com/garyiacobucci/hackathon-44/blob/master/assets/maras_eye-webfont.woff?raw=true")
+//       format("woff");
+// }
+
+// * {
+//   font-family: "maras_eyeregular";
+//   font-weight: normal;
+//   font-style: normal;
+// }
+
 // const images = document.getElementsByTagName('img');
 
 // for (let i = 0, i < images.length; i++) {
